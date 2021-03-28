@@ -1,25 +1,3 @@
-<html>
-
-<head>
-<title></title>
-</head>
-
-<body>
-
-
-
-</body>
-
-
-</html>
-
-
-
-
-
-
-
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -32,7 +10,7 @@
 
 	<link href="step_1_css.css" rel="stylesheet"/>
 	
-    <title>Vicks Soft Touch!</title>
+    <title>Vicks Soft Touch!!!</title>
   </head>
   <body>
 
@@ -59,7 +37,7 @@
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Book An Apointment</a>
+          <a class="nav-link" href="#">Book An Apointment.</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Contact Us</a>
