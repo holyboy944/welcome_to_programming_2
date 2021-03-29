@@ -1,0 +1,25 @@
+.reduce{
+	
+	height:450px;
+	
+}
+
+.background{
+	width:101.1%;
+	height:380px;
+	background-color:#faafba
+}
+
+.message_padding{
+	padding-top:50px;
+	text-align:center;
+}	
+
+.message_fonts{
+	font-family: 'Brush Script MT', cursive;
+}
+
+.form_padding2{
+	height:210px;
+	width:1000px;
+}
